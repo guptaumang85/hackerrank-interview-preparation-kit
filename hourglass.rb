@@ -1,3 +1,27 @@
+=begin
+  Function Description
+
+  Complete the function hourglassSum in the editor below.
+
+  hourglassSum has the following parameter(s):
+
+  int arr[6][6]: an array of integers
+  Returns
+
+  int: the maximum hourglass sum
+  Input Format
+
+  Each of the 6 lines of inputs arr[i] contains  space-separated integers arr[i][j].
+
+  Constraints
+   -9 <= arr[i][j] <= 9
+   0 <= i,j <= 5
+  Output Format
+
+  Print the largest (maximum) hourglass sum found in arr .
+
+=end
+
 def hourglassSum(arr)
   # Write your code here
   i,j = [0,0]

@@ -1,1 +1,3 @@
-# Hackerrank Questions \n Questions based on interview preparation kit of hackerrank 
+# Hackerrank Questions 
+
+Questions based on interview preparation kit of hackerrank 
